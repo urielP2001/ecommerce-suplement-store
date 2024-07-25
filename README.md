@@ -40,7 +40,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente.
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/nico-giusepetti/entrega-final-react-giusepetti.git
+   git clone https://github.com/urielP2001/ecommerce-suplement-store
 
 2. **Instala las dependencias:**
 
@@ -95,6 +95,6 @@ Una vez que el servidor de desarrollo esté en funcionamiento, puedes acceder a 
 - **Detalle de Órdenes**: Proporciona detalles sobre cada orden, incluyendo el ID y el total.
 
 ## Autor
-© Nicolás Giusepetti - 2024
+© Uriel Piedrabuena/Malena Albino - 2024
 
 
