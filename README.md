@@ -1,4 +1,4 @@
-# NG - Supplement Store || E-commerce React App
+# UM - Supplement Store || E-commerce React App
 
 Esta es una aplicación web de e-commerce desarrollada con React JS y Vite, utilizando Firebase para la gestión de la base de datos.
 
